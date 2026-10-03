@@ -1,0 +1,17 @@
+Order_ID,Shipping_Mode,Distance_km,Weight_kg,Shipping_Cost,Delivery_Time_days,Warehouse,Delivery_Status,Order_Date
+ORD001,Road,120.0,15.0,850.0,3,Chennai,Delivered,2026-09-01
+ORD002,Air,450.0,8.0,2200.0,2,Bengaluru,Delivered,2026-09-02
+ORD003,Road,80.0,,600.0,2,Chennai,Delayed,2026-09-03
+ORD004,Rail,300.0,40.0,1200.0,5,Coimbatore,Delivered,2026-09-04
+ORD005,road,150.0,22.0,900.0,4,Salem,Delivered,2026-09-05
+ORD006,Air,700.0,12.0,,3,Chennai,In Transit,2026-09-06
+ORD007,Road,95.0,18.0,650.0,2,Salem,Delivered,2026-09-07
+ORD008,Rail,500.0,55.0,1800.0,7,Coimbatore,Delayed,2026-09-08
+ORD009,ROAD,200.0,25.0,1000.0,4,Chennai,Delivered,2026-09-09
+ORD010,Air,900.0,10.0,3500.0,2,Bengaluru,Delivered,2026-09-10
+ORD011,Road,110.0,20.0,700.0,3,Salem,Delivered,2026-09-11
+ORD012,Rail,350.0,45.0,1400.0,6,Coimbatore,In Transit,2026-09-12
+ORD013,Road,,30.0,1100.0,4,Chennai,Delayed,2026-09-13
+ORD014,Air,600.0,9.0,2800.0,3,Bengaluru,Delivered,2026-09-14
+ORD015,Road,130.0,17.0,780.0,3,Salem,Delivered,2026-09-15
+ORD015,Road,130.0,17.0,780.0,3,Salem,Delivered,2026-09-15
